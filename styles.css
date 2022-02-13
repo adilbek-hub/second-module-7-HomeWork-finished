@@ -1,0 +1,63 @@
+.ipneed {
+    max-width: 350px;
+    margin: 0 auto;
+    margin-top: 120px;
+    border: 2px solid #81223a;
+    background-color: #a7d341;
+    border-radius: 8px;
+}
+#form {
+    text-align: center;
+}
+label {
+    font-size: 32px;
+    font-weight: 700;
+    color: #17151a;
+}
+input {
+    min-width: 290px;
+    margin-top: 20px;
+    margin-bottom: 28px;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #746955;
+}
+.btn {
+    min-width: 318px;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #746955;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 32px;
+    font-size: 16px;
+    color: #bd5237;
+}
+h2 {
+    text-align: center;
+    font-size: 32px;
+    color: #17151a;
+}
+.todo-item {
+    width: 280px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid rgb(133, 74, 230);
+    border-radius: 5px;
+    background-color: #effcef;
+}
+.todo-list {
+    width: 320px;
+    min-height: 40px;
+    margin-left: 15px;
+    border: 1px solid #746955;
+    background-color: #effcef;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.task:first-child {
+    margin-top: 20px;
+}
+.task:last-child {
+    margin-bottom: 20px;
+}
